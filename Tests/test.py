@@ -1,4 +1,6 @@
-import sys
-
-print("test_file" , sys.argv[0])
-print("Hello World!" , sys.argv[1:])
+if True:
+    print("Hello World")
+    print("Hello World 2")
+    print("Hello World again")
+    print("Hello World ++")
+    print(True)
